@@ -1,0 +1,213 @@
+Idm == 1:
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+状态: Static / 控制组: 0 - 实验组: 1 / 观测向量维度: 40 / 隐变量个数: 1 / 观测向量个数: 1200
+
+=============== Point ===============
+Point 1   = 0.050000
+Point 2   = 0.150000
+Point 3   = 0.250000
+Point 4   = 0.350000
+Point 5   = 0.450000
+Point 6   = 0.550000
+Point 7   = 0.650000
+Point 8   = 0.750000
+Point 9   = 0.850000
+Point 10  = 0.950000
+
+=============== Static ChooseParamsComb ===============
+Point     alphahat  betahat   shatprob  rhat      
+0.0500000.50    1.00    5.00    0.00    
+0.1500000.50    1.00    5.00    0.00    
+0.2500000.50    1.00    5.00    0.00    
+0.3500000.50    1.00    5.00    0.00    
+0.4500000.50    1.00    5.00    0.00    
+0.5500000.50    1.00    5.00    0.00    
+0.6500000.50    1.00    5.00    0.00    
+0.7500000.50    1.00    5.00    0.00    
+0.8500000.50    1.00    5.00    0.00    
+0.9500000.50    1.00    5.00    0.00    
+
+=============== Static IterCount ===============
+Point 1   = 0.050000: Iteration 77        
+Point 2   = 0.150000: Iteration 77        
+Point 3   = 0.250000: Iteration 77        
+Point 4   = 0.350000: Iteration 77        
+Point 5   = 0.450000: Iteration 77        
+Point 6   = 0.550000: Iteration 77        
+Point 7   = 0.650000: Iteration 77        
+Point 8   = 0.750000: Iteration 77        
+Point 9   = 0.850000: Iteration 77        
+Point 10  = 0.950000: Iteration 77        
+
+=============== Static CostTime ===============
+Point 1   = 0.050000: 0.754978 seconds
+Point 2   = 0.150000: 0.737110 seconds
+Point 3   = 0.250000: 0.721715 seconds
+Point 4   = 0.350000: 0.705650 seconds
+Point 5   = 0.450000: 0.711094 seconds
+Point 6   = 0.550000: 0.722676 seconds
+Point 7   = 0.650000: 0.700760 seconds
+Point 8   = 0.750000: 0.715920 seconds
+Point 9   = 0.850000: 0.715537 seconds
+Point 10  = 0.950000: 0.739011 seconds
+
+=============== Static TrueR1_Recovery ===============
+Point 1   = 0.050000: Not Recovered
+Point 2   = 0.150000: Not Recovered
+Point 3   = 0.250000: Not Recovered
+Point 4   = 0.350000: Not Recovered
+Point 5   = 0.450000: Not Recovered
+Point 6   = 0.550000: Not Recovered
+Point 7   = 0.650000: Not Recovered
+Point 8   = 0.750000: Not Recovered
+Point 9   = 0.850000: Not Recovered
+Point 10  = 0.950000: Not Recovered
+
+=============== Static TrueR1_Recovery Count ===============
+Static TrueR1_Recovery Count = 0     
+
+=============== Static TrueR_Recovery ===============
+Point 1   = 0.050000: Not Recovered
+Point 2   = 0.150000: Not Recovered
+Point 3   = 0.250000: Not Recovered
+Point 4   = 0.350000: Not Recovered
+Point 5   = 0.450000: Not Recovered
+Point 6   = 0.550000: Not Recovered
+Point 7   = 0.650000: Not Recovered
+Point 8   = 0.750000: Not Recovered
+Point 9   = 0.850000: Not Recovered
+Point 10  = 0.950000: Not Recovered
+
+=============== Static TrueR_Recovery Count ===============
+Static TrueR_Recovery Count = 0     
+
+=============== Static TPR ===============
+Point 1   = 0.050000: 0.960000
+Point 2   = 0.150000: 0.960000
+Point 3   = 0.250000: 0.960000
+Point 4   = 0.350000: 0.952000
+Point 5   = 0.450000: 0.960000
+Point 6   = 0.550000: 0.944000
+Point 7   = 0.650000: 0.936000
+Point 8   = 0.750000: 0.904000
+Point 9   = 0.850000: 0.920000
+Point 10  = 0.950000: 0.872000
+
+=============== Static TPR Median & Standard Deviation ===============
+Static TPR Median = 0.948000
+Static TPR Standard Deviation = 0.028273
+
+=============== Static FPR ===============
+Point 1   = 0.050000: 0.000000
+Point 2   = 0.150000: 0.000000
+Point 3   = 0.250000: 0.000000
+Point 4   = 0.350000: 0.000000
+Point 5   = 0.450000: 0.000000
+Point 6   = 0.550000: 0.000000
+Point 7   = 0.650000: 0.000000
+Point 8   = 0.750000: 0.000000
+Point 9   = 0.850000: 0.000000
+Point 10  = 0.950000: 0.000000
+
+=============== Static FPR Median & Standard Deviation ===============
+Static FPR Median = 0.000000
+Static FPR Standard Deviation = 0.000000
+
+=============== Static SparseFrobError ===============
+Point 1   = 0.050000: 9.105541
+Point 2   = 0.150000: 8.224953
+Point 3   = 0.250000: 8.249401
+Point 4   = 0.350000: 7.392558
+Point 5   = 0.450000: 8.554459
+Point 6   = 0.550000: 8.808379
+Point 7   = 0.650000: 9.524362
+Point 8   = 0.750000: 12.087519
+Point 9   = 0.850000: 11.892011
+Point 10  = 0.950000: 16.767715
+
+=============== Static SparseFrobError Median & Standard Deviation ===============
+Static SparseFrobError Median = 8.956960
+Static SparseFrobError Standard Deviation = 2.669317
+
+=============== Static LowrankFrobError ===============
+Point 1   = 0.050000: 1.758699
+Point 2   = 0.150000: 1.886612
+Point 3   = 0.250000: 1.667648
+Point 4   = 0.350000: 1.626276
+Point 5   = 0.450000: 1.801274
+Point 6   = 0.550000: 1.685502
+Point 7   = 0.650000: 1.706055
+Point 8   = 0.750000: 1.682634
+Point 9   = 0.850000: 1.750575
+Point 10  = 0.950000: 1.723229
+
+=============== Static LowrankFrobError Median & Standard Deviation ===============
+Static LowrankFrobError Median = 1.714642
+Static LowrankFrobError Standard Deviation = 0.070944
+
+=============== Static TotalFrobError ===============
+Point 1   = 0.050000: 7.259183
+Point 2   = 0.150000: 6.321648
+Point 3   = 0.250000: 6.688203
+Point 4   = 0.350000: 6.306055
+Point 5   = 0.450000: 6.537469
+Point 6   = 0.550000: 7.109056
+Point 7   = 0.650000: 7.639762
+Point 8   = 0.750000: 9.668060
+Point 9   = 0.850000: 9.237154
+Point 10  = 0.950000: 13.193710
+
+=============== Static TotalFrobError Median & Standard Deviation ===============
+Static TotalFrobError Median = 7.184120
+Static TotalFrobError Standard Deviation = 2.056840
+
+=============== Static SparseSpecError ===============
+Point 1   = 0.050000: 3.213535
+Point 2   = 0.150000: 3.049385
+Point 3   = 0.250000: 3.131040
+Point 4   = 0.350000: 2.802593
+Point 5   = 0.450000: 3.654601
+Point 6   = 0.550000: 3.490388
+Point 7   = 0.650000: 4.265434
+Point 8   = 0.750000: 5.736125
+Point 9   = 0.850000: 5.895124
+Point 10  = 0.950000: 6.798565
+
+=============== Static SparseSpecError Median & Standard Deviation ===============
+Static SparseSpecError Median = 3.572495
+Static SparseSpecError Standard Deviation = 1.348454
+
+=============== Static LowrankSpecError ===============
+Point 1   = 0.050000: 1.581283
+Point 2   = 0.150000: 1.731324
+Point 3   = 0.250000: 1.525983
+Point 4   = 0.350000: 1.409714
+Point 5   = 0.450000: 1.723952
+Point 6   = 0.550000: 1.578702
+Point 7   = 0.650000: 1.639643
+Point 8   = 0.750000: 1.630364
+Point 9   = 0.850000: 1.718845
+Point 10  = 0.950000: 1.673704
+
+=============== Static LowrankSpecError Median & Standard Deviation ===============
+Static LowrankSpecError Median = 1.635003
+Static LowrankSpecError Standard Deviation = 0.096225
+
+=============== Static TotalSpecError ===============
+Point 1   = 0.050000: 2.505410
+Point 2   = 0.150000: 2.293811
+Point 3   = 0.250000: 2.497854
+Point 4   = 0.350000: 2.355304
+Point 5   = 0.450000: 2.948265
+Point 6   = 0.550000: 2.961454
+Point 7   = 0.650000: 3.517666
+Point 8   = 0.750000: 4.700806
+Point 9   = 0.850000: 4.611431
+Point 10  = 0.950000: 5.561065
+
+=============== Static TotalSpecError Median & Standard Deviation ===============
+Static TotalSpecError Median = 2.954860
+Static TotalSpecError Standard Deviation = 1.103136

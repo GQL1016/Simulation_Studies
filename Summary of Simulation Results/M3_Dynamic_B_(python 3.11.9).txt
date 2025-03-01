@@ -1,0 +1,212 @@
+Idm == 3:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+状态: Dynamic / 控制组: 0 - 实验组: 3 / 观测向量维度: 60 / 隐变量个数: 2 / 观测向量个数: 1800
+
+=============== Point ===============
+Point 1   = 0.050000
+Point 2   = 0.150000
+Point 3   = 0.250000
+Point 4   = 0.350000
+Point 5   = 0.450000
+Point 6   = 0.550000
+Point 7   = 0.650000
+Point 8   = 0.750000
+Point 9   = 0.850000
+Point 10  = 0.950000
+
+=============== ChooseParamsComb ===============
+Point     alphahat  betahat   shatprob  rhat      
+0.0500000.50    1.00    5.00    1.00    
+0.1500000.50    1.00    5.00    1.00    
+0.2500000.50    1.00    5.00    1.00    
+0.3500000.50    1.00    5.00    1.00    
+0.4500000.50    1.00    5.00    1.00    
+0.5500000.50    1.00    5.00    1.00    
+0.6500000.50    1.00    5.00    1.00    
+0.7500000.50    1.00    5.00    1.00    
+0.8500000.50    1.00    5.00    1.00    
+0.9500000.50    1.00    5.00    1.00    
+
+=============== Dynamic IterCount ===============
+Point 1   = 0.050000: Iteration 43        
+Point 2   = 0.150000: Iteration 43        
+Point 3   = 0.250000: Iteration 42        
+Point 4   = 0.350000: Iteration 42        
+Point 5   = 0.450000: Iteration 42        
+Point 6   = 0.550000: Iteration 42        
+Point 7   = 0.650000: Iteration 42        
+Point 8   = 0.750000: Iteration 42        
+Point 9   = 0.850000: Iteration 42        
+Point 10  = 0.950000: Iteration 41        
+
+=============== Dynamic CostTime ===============
+Point 1   = 0.050000: 0.688822 seconds
+Point 2   = 0.150000: 0.690210 seconds
+Point 3   = 0.250000: 0.676379 seconds
+Point 4   = 0.350000: 0.670599 seconds
+Point 5   = 0.450000: 0.670286 seconds
+Point 6   = 0.550000: 0.673836 seconds
+Point 7   = 0.650000: 0.678174 seconds
+Point 8   = 0.750000: 0.679021 seconds
+Point 9   = 0.850000: 0.672685 seconds
+Point 10  = 0.950000: 0.656332 seconds
+
+=============== Dynamic TrueR1_Recovery ===============
+Point 1   = 0.050000: Not Recovered
+Point 2   = 0.150000: Not Recovered
+Point 3   = 0.250000: Not Recovered
+Point 4   = 0.350000: Not Recovered
+Point 5   = 0.450000: Not Recovered
+Point 6   = 0.550000: Not Recovered
+Point 7   = 0.650000: Not Recovered
+Point 8   = 0.750000: Not Recovered
+Point 9   = 0.850000: Not Recovered
+Point 10  = 0.950000: Not Recovered
+
+=============== Dynamic TrueR1_Recovery Count ===============
+Dynamic TrueR1_Recovery Count = 0     
+
+=============== Dynamic TrueR_Recovery ===============
+Point 1   = 0.050000: Not Recovered
+Point 2   = 0.150000: Not Recovered
+Point 3   = 0.250000: Not Recovered
+Point 4   = 0.350000: Not Recovered
+Point 5   = 0.450000: Not Recovered
+Point 6   = 0.550000: Not Recovered
+Point 7   = 0.650000: Not Recovered
+Point 8   = 0.750000: Not Recovered
+Point 9   = 0.850000: Not Recovered
+Point 10  = 0.950000: Not Recovered
+
+=============== Dynamic TrueR_Recovery Count ===============
+Dynamic TrueR_Recovery Count = 0     
+
+=============== Dynamic TPR ===============
+Point 1   = 0.050000: 1.000000
+Point 2   = 0.150000: 1.000000
+Point 3   = 0.250000: 1.000000
+Point 4   = 0.350000: 1.000000
+Point 5   = 0.450000: 1.000000
+Point 6   = 0.550000: 1.000000
+Point 7   = 0.650000: 1.000000
+Point 8   = 0.750000: 1.000000
+Point 9   = 0.850000: 1.000000
+Point 10  = 0.950000: 1.000000
+
+=============== Dynamic TPR Median & Standard Deviation ===============
+Dynamic TPR Median = 1.000000
+Dynamic TPR Standard Deviation = 0.000000
+
+=============== Dynamic FPR ===============
+Point 1   = 0.050000: 0.019964
+Point 2   = 0.150000: 0.019964
+Point 3   = 0.250000: 0.019964
+Point 4   = 0.350000: 0.019964
+Point 5   = 0.450000: 0.019964
+Point 6   = 0.550000: 0.019964
+Point 7   = 0.650000: 0.019964
+Point 8   = 0.750000: 0.019964
+Point 9   = 0.850000: 0.019964
+Point 10  = 0.950000: 0.019964
+
+=============== Dynamic FPR Median & Standard Deviation ===============
+Dynamic FPR Median = 0.019964
+Dynamic FPR Standard Deviation = 0.000000
+
+=============== Dynamic SparseFrobError ===============
+Point 1   = 0.050000: 8.473029
+Point 2   = 0.150000: 8.697556
+Point 3   = 0.250000: 9.032846
+Point 4   = 0.350000: 8.232919
+Point 5   = 0.450000: 7.768522
+Point 6   = 0.550000: 9.409037
+Point 7   = 0.650000: 8.008933
+Point 8   = 0.750000: 9.160006
+Point 9   = 0.850000: 7.776073
+Point 10  = 0.950000: 7.737028
+
+=============== Dynamic SparseFrobError Median & Standard Deviation ===============
+Dynamic SparseFrobError Median = 8.352974
+Dynamic SparseFrobError Standard Deviation = 0.590745
+
+=============== Dynamic LowrankFrobError ===============
+Point 1   = 0.050000: 2.057128
+Point 2   = 0.150000: 2.289620
+Point 3   = 0.250000: 2.263975
+Point 4   = 0.350000: 2.106718
+Point 5   = 0.450000: 1.890479
+Point 6   = 0.550000: 2.332627
+Point 7   = 0.650000: 2.170044
+Point 8   = 0.750000: 2.228522
+Point 9   = 0.850000: 2.120691
+Point 10  = 0.950000: 2.407132
+
+=============== Dynamic LowrankFrobError Median and Standard Deviation ===============
+Dynamic LowrankFrobError Median = 2.199283
+Dynamic LowrankFrobError Standard Deviation = 0.142746
+
+=============== Dynamic TotalFrobError ===============
+Point 1   = 0.050000: 4.108785
+Point 2   = 0.150000: 3.981255
+Point 3   = 0.250000: 4.334053
+Point 4   = 0.350000: 4.007312
+Point 5   = 0.450000: 3.646170
+Point 6   = 0.550000: 4.500855
+Point 7   = 0.650000: 3.842761
+Point 8   = 0.750000: 4.450298
+Point 9   = 0.850000: 3.609485
+Point 10  = 0.950000: 3.831910
+
+=============== Dynamic TotalFrobError Median & Standard Deviation ===============
+Dynamic TotalFrobError Median = 3.994284
+Dynamic TotalFrobError Standard Deviation = 0.299723
+
+=============== Dynamic SparseSpecError ===============
+Point 1   = 0.050000: 2.419656
+Point 2   = 0.150000: 2.365942
+Point 3   = 0.250000: 2.591837
+Point 4   = 0.350000: 2.268217
+Point 5   = 0.450000: 2.391611
+Point 6   = 0.550000: 2.943653
+Point 7   = 0.650000: 2.258275
+Point 8   = 0.750000: 2.580386
+Point 9   = 0.850000: 2.396785
+Point 10  = 0.950000: 2.407665
+
+=============== Dynamic SparseSpecError Median & Standard Deviation ===============
+Dynamic SparseSpecError Median = 2.402225
+Dynamic SparseSpecError Standard Deviation = 0.191075
+
+=============== Dynamic LowrankSpecError ===============
+Point 1   = 0.050000: 1.471000
+Point 2   = 0.150000: 1.776128
+Point 3   = 0.250000: 1.602067
+Point 4   = 0.350000: 1.453893
+Point 5   = 0.450000: 1.405271
+Point 6   = 0.550000: 1.650750
+Point 7   = 0.650000: 1.545620
+Point 8   = 0.750000: 1.511064
+Point 9   = 0.850000: 1.587888
+Point 10  = 0.950000: 1.652658
+
+=============== Dynamic LowrankSpecError Median & Standard Deviation ===============
+Dynamic LowrankSpecError Median = 1.566754
+Dynamic LowrankSpecError Standard Deviation = 0.105586
+
+=============== Dynamic TotalSpecError ===============
+Point 1   = 0.050000: 1.242414
+Point 2   = 0.150000: 1.070367
+Point 3   = 0.250000: 1.325681
+Point 4   = 0.350000: 1.160396
+Point 5   = 0.450000: 1.127222
+Point 6   = 0.550000: 1.393090
+Point 7   = 0.650000: 1.086856
+Point 8   = 0.750000: 1.249641
+Point 9   = 0.850000: 1.111971
+Point 10  = 0.950000: 1.220958
+
+=============== Dynamic TotalSpecError Median & Standard Deviation ===============
+Dynamic TotalSpecError Median = 1.190677     (X)
+Dynamic TotalSpecError Standard Deviation = 0.100990
