@@ -18,8 +18,8 @@ import time
 import numpy as np
 import matplotlib
 
-from A25_generate_date import *
-from B25_static import *
+from A_generate_date import *
+from B_static import *
 
 
 matplotlib.use('Agg')  # 使用非交互式后端

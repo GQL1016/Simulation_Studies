@@ -16,7 +16,7 @@
 import numpy as np
 import math
 import time
-from A25_generate_date import *
+from A_generate_date import *
 
 """
                         =========================================================
